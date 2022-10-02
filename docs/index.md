@@ -1,6 +1,6 @@
 ---
 hero:
-  title: 我的rcomponents组件库
+  title: rcomponents组件库
   desc: rcomponents 来源与平时的积累
   actions:
     - text: 进入组件库
@@ -18,4 +18,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [QWYZ](https://github.com/QWYZ)
 ---
 
-# 欢迎来到我的 rcomponents 组件库🎉!
+# 欢迎来到千万样子⭐的 rcomponents 组件库🎉!
